@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mp-nagar-palika/static/css/main.4acb2e39.css",
+    "main.js": "/mp-nagar-palika/static/js/main.2e973caa.js",
+    "static/js/787.9d0e093f.chunk.js": "/mp-nagar-palika/static/js/787.9d0e093f.chunk.js",
+    "static/media/banner1.jpg": "/mp-nagar-palika/static/media/banner1.9bcbc354e35877476f17.jpg",
+    "static/media/banner2.jpg": "/mp-nagar-palika/static/media/banner2.84943d7dbef02d6ce70c.jpg",
+    "static/media/logo.png": "/mp-nagar-palika/static/media/logo.224f35a23b9ef207ed4d.png",
+    "static/media/Segoe UI.woff": "/mp-nagar-palika/static/media/Segoe UI.293e692f583af77a347b.woff",
+    "static/media/slick.svg": "/mp-nagar-palika/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/mp-nagar-palika/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/mp-nagar-palika/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/mp-nagar-palika/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/mp-nagar-palika/index.html",
+    "main.4acb2e39.css.map": "/mp-nagar-palika/static/css/main.4acb2e39.css.map",
+    "main.2e973caa.js.map": "/mp-nagar-palika/static/js/main.2e973caa.js.map",
+    "787.9d0e093f.chunk.js.map": "/mp-nagar-palika/static/js/787.9d0e093f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4acb2e39.css",
+    "static/js/main.2e973caa.js"
+  ]
+}
